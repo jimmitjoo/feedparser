@@ -3,7 +3,6 @@
 use App\Brand;
 use App\Product;
 use Illuminate\Container\Container;
-use Illuminate\Support\Facades\Storage;
 use Orchestra\Parser\Xml\Document;
 use Orchestra\Parser\Xml\Reader;
 
